@@ -1,0 +1,8 @@
+C:\Users\Jared\source\repos\21TekSavvvy\Practice4CSharp\Practice4\Practice4\bin\Debug\Practice4.exe.config
+C:\Users\Jared\source\repos\21TekSavvvy\Practice4CSharp\Practice4\Practice4\bin\Debug\Practice4.exe
+C:\Users\Jared\source\repos\21TekSavvvy\Practice4CSharp\Practice4\Practice4\bin\Debug\Practice4.pdb
+C:\Users\Jared\source\repos\21TekSavvvy\Practice4CSharp\Practice4\Practice4\obj\Debug\Practice4.csproj.AssemblyReference.cache
+C:\Users\Jared\source\repos\21TekSavvvy\Practice4CSharp\Practice4\Practice4\obj\Debug\Practice4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jared\source\repos\21TekSavvvy\Practice4CSharp\Practice4\Practice4\obj\Debug\Practice4.csproj.CoreCompileInputs.cache
+C:\Users\Jared\source\repos\21TekSavvvy\Practice4CSharp\Practice4\Practice4\obj\Debug\Practice4.exe
+C:\Users\Jared\source\repos\21TekSavvvy\Practice4CSharp\Practice4\Practice4\obj\Debug\Practice4.pdb
